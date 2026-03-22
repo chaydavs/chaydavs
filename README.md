@@ -24,7 +24,7 @@ chay = {
     "name"       : "Sai Chaitanya Davuluri",
     "school"     : "Virginia Tech — CMDA (Economics) + CS Minor",
     "gpa"        : 3.4,
-    "graduating" : "May 2026",
+    "graduating" : "May 2027",
     "roles"      : [
         "Data Engineer @ Projectr Analytics",
         "Accessibility Data Intern @ VT Libraries",
