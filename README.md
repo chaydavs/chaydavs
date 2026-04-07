@@ -16,8 +16,8 @@ Tech: Python, Flask, Claude AI
 Tech: JavaScript, Chrome Extension (Manifest V3), Claude AI
 [github.com/chaydavs/CoverLetter---Web-Extension](https://github.com/chaydavs/CoverLetter---Web-Extension)
 
-**refr.store** — AI-powered credit card recommendation platform with personalized matching.
-Tech: Python, Flask, Firebase, Claude AI
+**refr.store** — AI-powered general referral marketplace platform that lets you earn passive income.
+Tech: Python, Flask, Firebase.
 [refr.store](https://refr.store)
 
 ## Tech Stack
