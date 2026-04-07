@@ -14,7 +14,7 @@ Tech: Python, Flask, Claude AI
 
 **Pave** — Chrome extension that generates tailored cover letters in 60 seconds from any job posting. No login required.
 Tech: JavaScript, Chrome Extension (Manifest V3), Claude AI
-[github.com/chaydavs/CoverLetter---Web-Extension](https://github.com/chaydavs/Pave_CoverLetterGenerator)
+[github.com/chaydavs/Pave_CoverLetterGenerator](https://github.com/chaydavs/Pave_CoverLetterGenerator)
 
 **refr.store** — AI-powered general referral marketplace platform that lets you earn passive income.
 Tech: Python, Flask, Firebase.
